@@ -1,0 +1,8 @@
+/.idea
+Pipfile.lock
+Pipfile
+.env
+__pycache__/
+deepchecks.db
+test.db
+/uploads
